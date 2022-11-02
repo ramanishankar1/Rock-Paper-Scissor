@@ -1,0 +1,22 @@
+#gamePlay {
+    font-family: 'Brush Script MT', cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+    font-size: 25px;
+}
+
+.choiceBtn {
+    line-height: 30px;
+    width: 150px;
+}
+
+#playerText {
+    color: blue;
+}
+
+#computerText {
+    color: red;
+}
